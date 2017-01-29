@@ -1,0 +1,12 @@
+E:\Pobrane\progi\Poprawa\Poprawa\bin\Debug\Poprawa.exe.config
+E:\Pobrane\progi\Poprawa\Poprawa\bin\Debug\Poprawa.exe
+E:\Pobrane\progi\Poprawa\Poprawa\bin\Debug\Poprawa.pdb
+E:\Pobrane\progi\Poprawa\Poprawa\obj\Debug\Poprawa.csprojResolveAssemblyReference.cache
+E:\Pobrane\progi\Poprawa\Poprawa\obj\Debug\Poprawa.exe
+E:\Pobrane\progi\Poprawa\Poprawa\obj\Debug\Poprawa.pdb
+C:\Users\local\Desktop\Poprawa\Poprawa\bin\Debug\Poprawa.exe.config
+C:\Users\local\Desktop\Poprawa\Poprawa\obj\Debug\Poprawa.exe
+C:\Users\local\Desktop\Poprawa\Poprawa\obj\Debug\Poprawa.pdb
+C:\Users\local\Desktop\Poprawa\Poprawa\bin\Debug\Poprawa.exe
+C:\Users\local\Desktop\Poprawa\Poprawa\bin\Debug\Poprawa.pdb
+C:\Users\local\Desktop\Poprawa\Poprawa\obj\Debug\Poprawa.csprojResolveAssemblyReference.cache
