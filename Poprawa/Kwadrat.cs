@@ -10,10 +10,9 @@ namespace Poprawa
     {
         public Kwadrat(double a)
         {
-            this.a = a;
-            this.a = b;
-            this.a = c;
-            this.a = d;
+            this.b = a;
+            this.c = a;
+            this.d = a;
         }
     }
 }

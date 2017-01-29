@@ -14,10 +14,10 @@ namespace Poprawa
         }
         public Prostokat(double a, double b)
         {
-            this.a = a;
-            this.a = c;
+            this.c = a;
             this.b = b;
-            this.b = d;
+            this.d = b;
         }
+
     }
 }

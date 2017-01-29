@@ -11,21 +11,20 @@ namespace Poprawa
         static void Main(string[] args)
         {
             List<Ksztalt> figury = new List<Ksztalt>();
-            figury.Add(new Trojkat(3, 4, 6));
-            figury.Add(new TrojkatRownoboczny(4));
-            figury.Add(new TrojkatProstokatny(3, 4));
-            figury.Add(new Trojkat(4, 5, 7));
-            figury.Add(new TrojkatRownoboczny(6));
-            figury.Add(new TrojkatProstokatny(2, 6));
-            figury.Add(new Trojkat(3, 6, 8));
-            figury.Add(new TrojkatRownoboczny(2));
-            figury.Add(new TrojkatProstokatny(7, 4));
-            figury.Add(new TrojkatProstokatny(10, 10));
-
+            figury.Add(new Prostokat(3, 4));
+            figury.Add(new Kwadrat(4));
+            figury.Add(new Czworokat(3, 7,2,1));
+            figury.Add(new Prostokat(5, 4));
+            figury.Add(new Kwadrat(8));
+            figury.Add(new Czworokat(12, 3, 2, 7));
+            figury.Add(new Prostokat(13, 24));
+            figury.Add(new Kwadrat(7));
+            figury.Add(new Czworokat(2, 8, 5, 1));
+            figury.Add(new Kwadrat(16));
             Console.WriteLine("Pole wieksze od 10:");
             foreach(var e in figury)
             {
-                if(e.ObliczPole()>10)
+                if(e.ObliczPole() > 10)
                 {
                     Console.WriteLine(e.ToString());
                 }
